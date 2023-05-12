@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A8B573B-58B7-48E3-9BE7-91A3B8DFCD0D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2680A97-06F6-4A4F-83C8-96FEE4EE02A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2680A97-06F6-4A4F-83C8-96FEE4EE02A1 - 4b9b22e0c901acc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor @Sendable () -&gt; () in RickAndMortyChallenge.CharacterDetailViewModel.onAppear() async -&gt; ()"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "D2680A97-06F6-4A4F-83C8-96FEE4EE02A1 - 6720c50afbf3c0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickAndMortyChallenge.CharacterDetailViewModel.onAppear() async -&gt; ()"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "D2680A97-06F6-4A4F-83C8-96FEE4EE02A1 - 6720c50afbf3c0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickAndMortyChallenge.CharacterDetailViewModel.onAppear() async -&gt; ()"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74F623F4-9109-4AF1-B82B-FB024F005590"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74F623F4-9109-4AF1-B82B-FB024F005590 - 6720c50afbf3c300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickAndMortyChallenge.CharacterDetailViewModel.onAppear() async -&gt; ()"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "74F623F4-9109-4AF1-B82B-FB024F005590 - 6720c50afbf3c300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickAndMortyChallenge.CharacterDetailViewModel.onAppear() async -&gt; ()"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Presentation/CharacterDetail/ViewModel/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F48027F-7577-42BB-93EA-25BDC3E7E028"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Core/Networking/Manager/NetworkManagerImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "decodeJSONData(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F48027F-7577-42BB-93EA-25BDC3E7E028 - 65e0c6bb8fddd1af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMortyChallenge.NetworkManagerImpl.decodeJSONData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Core/Networking/Manager/NetworkManagerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "6F48027F-7577-42BB-93EA-25BDC3E7E028 - 65e0c6bb8fddd1af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMortyChallenge.NetworkManagerImpl.decodeJSONData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Foundation.Data) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Core/Networking/Manager/NetworkManagerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBBE1C91-BBE9-464D-89FB-18094C08CC20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Core/Networking/Manager/NetworkManagerImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "decodeJSONData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC5668D4-D066-4705-87A1-06DAFA73677A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getEpisodes(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "114ED115-866B-4AFA-8979-8A74BDD1B702"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getEpisodes(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "114ED115-866B-4AFA-8979-8A74BDD1B702 - e75ee13b39c85845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "114ED115-866B-4AFA-8979-8A74BDD1B702 - 5cc66e67b5065153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "114ED115-866B-4AFA-8979-8A74BDD1B702 - 8ea9166c30e11c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "114ED115-866B-4AFA-8979-8A74BDD1B702 - e5a2526baf2e464a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A65B548-24A6-4AD8-8BA1-59AF34CC9ECE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getEpisodes(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A65B548-24A6-4AD8-8BA1-59AF34CC9ECE - e75ee13b39c85fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "1A65B548-24A6-4AD8-8BA1-59AF34CC9ECE - 94cb3ca1eb1f72c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1A65B548-24A6-4AD8-8BA1-59AF34CC9ECE - 31fb4bd12bb9e7d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "1A65B548-24A6-4AD8-8BA1-59AF34CC9ECE - d95579022252a3d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for RickAndMortyChallenge.EpisodesServiceImpl.getEpisodes(request: RickAndMortyChallenge.GetEpisodesRequestDTO) async throws -&gt; Swift.Array&lt;RickAndMortyChallenge.Episode&gt;"
+                  moduleName = "RickAndMortyChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ezequielfritz/Desktop/SWIFTUI/RickAndMortyChallenge/RickAndMortyChallenge/Data/Episodes/Service/EpisodesServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
